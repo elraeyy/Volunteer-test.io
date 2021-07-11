@@ -1101,12 +1101,12 @@ body > div > div.second_card > div.search_btn > p{
     border: 1px dashed #EBEBF9;
 }
 .Phone-number{
-    position: absolute;
+    position: relative;
     width: 90px;
     height: 20px;
-    left: 35%;
+    right: 119%;
     bottom: 0;
-    top: 133%;
+    top: 350%;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
@@ -1333,6 +1333,9 @@ body > div > div.second_card > div.search_btn > p{
     .resp-div, .dropdown-btn{
         display: none;
     }
+    .sixth_card{
+        display: none;
+    }
   }
   
   /* 
@@ -1345,6 +1348,10 @@ body > div > div.second_card > div.search_btn > p{
     .resp-div, .dropdown-btn{
         display: none;
     }
+    .sixth_card{
+        display: none;
+    }
+
     
   }
   
@@ -1358,6 +1365,10 @@ body > div > div.second_card > div.search_btn > p{
     .resp-div, .dropdown-btn{
         display: none;
     }
+    .sixth_card{
+        display: none;
+    }
+
     
   }
   
@@ -1395,6 +1406,9 @@ body > div > div.second_card > div.search_btn > p{
     .ellipse-1, .frame-606{
         display: none;
     }
+    .svth-bg {
+        right: 15%;
+    }
     .first_card{
         width: -webkit-fill-available;  
         left: 1px;
@@ -1430,31 +1444,65 @@ body > div > div.second_card > div.search_btn > p{
         line-height: 24px;
         color: #1A1E2C;
     }
-    .crt{
+
+    .crt, .up-resp, .contact-person-death, .location-input, .tenth_card, .missing-person-profile, .divider{
+        display: none;
+    }
+    .ninth_card, .ninth-bg{
         position: absolute;
-        width: 49px;
+        width: 361px;
+        height: 291px;
+        left: 6px;
+        top: 90%;
+    }
+    .text-14{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        position: relative;
+        width: 345px;
         height: 24px;
-        left: 70%;
-        top: 39%;
+        left: 45px;
+        top: 20px;
         font-family: Poppins;
         font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 24px;
-        text-align: right;
-        color: #00D555;
+        color: #FFFFFF;
         flex: none;
         order: 0;
         flex-grow: 0;
-        margin: 0px 8px;
+        margin: 4px 0px;
     }
-    .up-resp{
+    .text-15{
         position: absolute;
-        width: 24px;
-        height: 24px;
-        left: 90%;
-        top: 39%;        
-        background: #00D555;
+        width: 111px;
+        height: 20px;
+        left: 55px;
+        top: 17%;
+    }
+    .ninth-time{
+        position: absolute;
+        left: 30px;
+        top: 17%;    
+    }
+    .drag-element{
+        top: 7%;
+    }
+    .user-profile{
+        left: 5%;
+    }
+    .soc-med-bg{
+        left: 0%;
+        top: 65%;
+    }
+    .right-frame{
+        display: none;
+    }
+    .button_sixth_card{
+        left: 50%;
     }
     .resp-flex{
         display: flex;
@@ -1492,7 +1540,7 @@ body > div > div.second_card > div.search_btn > p{
         width: -webkit-fill-available;
         height: 112px;
         left: 1px;
-        top: 700px;
+        top: 2000px;    
     }
     .right-frame{
         display: none;
