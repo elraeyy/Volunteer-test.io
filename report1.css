@@ -1445,7 +1445,7 @@ body > div > div.second_card > div.search_btn > p{
         color: #1A1E2C;
     }
 
-    .crt, .up-resp, .contact-person-death, .location-input, .tenth_card, .missing-person-profile, .divider{
+    .crt, .up-resp, .contact-person-death, .location-input, .tenth_card, .missing-person-profile, .divider, .questionnaire-card-1, .ransom-card, .features-card, .description_card, .submit-btn{
         display: none;
     }
     .ninth_card, .ninth-bg{
@@ -1540,7 +1540,7 @@ body > div > div.second_card > div.search_btn > p{
         width: -webkit-fill-available;
         height: 112px;
         left: 1px;
-        top: 2000px;    
+        top: 1450px;  
     }
     .right-frame{
         display: none;

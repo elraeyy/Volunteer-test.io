@@ -1446,7 +1446,7 @@ a{
         width: 49px;
         height: 24px;
         left: 70%;
-        top: 39%;
+        top: 29%;
         font-family: Poppins;
         font-style: normal;
         font-weight: 500;
@@ -1464,7 +1464,7 @@ a{
         width: 24px;
         height: 24px;
         left: 90%;
-        top: 39%;        
+        top: 29%;        
         background: #00D555;
     }
     .resp-flex{
@@ -1475,11 +1475,11 @@ a{
         position: relative;
     }
     .third_card{
-        left: 20px;
+        left: 11%;
         top: 350px;
     }
     .fourth_card{
-        left: 20px;
+        left: 11%;
         top: 385px;
     }
     .one{
@@ -1495,8 +1495,8 @@ a{
         position: absolute;
         width: 106px;
         height: 48px;
-        left: 29%;
-        top: 370%;        
+        left: 32%;
+        top: 270%;       
         background: #27AE60;
         border-radius: 12px;
         flex: none;
