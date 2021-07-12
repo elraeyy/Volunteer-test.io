@@ -1776,6 +1776,156 @@ body > div > div.second_card > div.search_btn > p{
         .ellipse-1, .frame-606{
             display: none;
         }
+        .first_card{
+            width: -webkit-fill-available;  
+            left: 1px;
+            padding: 0px 5px;  
+        }
+        .resp-img{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 0px;
+            position: absolute;
+            width: 58.2px;
+            height: 24px;
+            right: 0.8px;
+            top: 40%;
+        }
+        .frame-605{
+            margin: 12.5% 2.5%;
+        }
+        .second_card, .fifth_card{
+            display: none;
+        }
+        .msng-p{
+            position: absolute;
+            width: 174px;
+            height: 51px;
+            left: 40px;
+            top: 230px;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            color: #1A1E2C;
+        }
+        .crt{
+            position: absolute;
+            width: 49px;
+            height: 24px;
+            left: 70%;
+            top: 39%;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 24px;
+            text-align: right;
+            color: #00D555;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            margin: 0px 8px;
+        }
+        .up-resp{
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 90%;
+            top: 39%;        
+            background: #00D555;
+        }
+        .resp-flex{
+            display: flex;
+            flex-direction: column;
+        }
+        .third_card, .fourth_card{
+            position: relative;
+        }
+        .third_card{
+            left: 20px;
+            top: 350px;
+        }
+        .fourth_card{
+            left: 20px;
+            top: 445px;
+        }
+        .seemore-resp{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: absolute;
+            width: 106px;
+            height: 48px;
+            left: 29%;
+            top: 225%;        
+            background: #27AE60;
+            border-radius: 12px;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            margin: 0px 16px;
+        } 
+        .sixth_card{
+            position: relative;
+            width: -webkit-fill-available;
+            height: 112px;
+            left: 1px;
+            top: 700px;
+        }
+        .right-frame{
+            display: none;
+        }
+        .button_sixth_card{
+            left: 50%;
+        }
+        .help-text-1 {
+            position: absolute;
+            width: fit-content;
+            height: 48px;
+            left: 20px;
+            top: 30px;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 24px;
+            color: #8E94A7;
+            flex: none;
+            order: 1;
+            align-self: stretch;
+            flex-grow: 0;
+            margin: 32px 0px;
+        }
+        .help-card {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 32px;
+            position: absolute;
+            width: 301px;
+            height: 516px;
+            right: 5%;
+            top: 25%;
+            background: #FFFFFF;
+            border: 0.5px solid #EBEBF9;
+            box-sizing: border-box;
+            box-shadow: 8px 8px 16px 4px rgb(137 143 150 / 4%);
+            border-radius: 20px;
+        }
+        .soc-med-links {
+            left: 20px;
+        }
+        .cancel{
+            width: 225px;
+            left: 0px;
+        }
+        .submit{
+            width: 230px;
+        }
+    
     
   }
   
