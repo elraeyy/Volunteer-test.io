@@ -816,11 +816,11 @@ body > div > div.second_card > div.search_btn > p{
     margin: 0px 32px;
 }
 .ninth-up{
-    position: relative;
+    position: absolute;
     width: 24px;
     height: 24px;
     top: 25%;
-    right: 30%;
+    right: 75%;
 }
 .text-18{
     position: absolute;
