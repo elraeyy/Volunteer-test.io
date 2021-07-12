@@ -1979,7 +1979,7 @@ body > div > div.second_card > div.search_btn > p{
         width: 49px;
         height: 24px;
         left: 70%;
-        top: 39%;
+        top: 29%;
         font-family: Poppins;
         font-style: normal;
         font-weight: 500;
@@ -1997,7 +1997,7 @@ body > div > div.second_card > div.search_btn > p{
         width: 24px;
         height: 24px;
         left: 90%;
-        top: 39%;        
+        top: 29%;        
         background: #00D555;
     }
     .resp-flex{
@@ -2008,11 +2008,11 @@ body > div > div.second_card > div.search_btn > p{
         position: relative;
     }
     .third_card{
-        left: 20px;
+        left: 40px;
         top: 350px;
     }
     .fourth_card{
-        left: 20px;
+        left: 40px;
         top: 445px;
     }
     .seemore-resp{
@@ -2022,8 +2022,8 @@ body > div > div.second_card > div.search_btn > p{
         position: absolute;
         width: 106px;
         height: 48px;
-        left: 29%;
-        top: 225%;        
+        left: 32%;
+        top: 175%;        
         background: #27AE60;
         border-radius: 12px;
         flex: none;
