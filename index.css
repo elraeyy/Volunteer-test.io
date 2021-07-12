@@ -2100,6 +2100,17 @@ body > div > div.second_card > div.search_btn > p{
     .submit{
         width: 230px;
     }
+    .report-success-card{
+        left: 0px;
+        width: -webkit-fill-available;
+    }
+    .close-icon{
+        left: 188px;
+    }
+    .profile-card {
+        width: -webkit-fill-available;
+    }
+
 
     
 
